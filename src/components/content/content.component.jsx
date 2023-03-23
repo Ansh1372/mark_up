@@ -1,6 +1,6 @@
 const Content =()=>{
     return(
-        <>
+        <main>
         <h1>Fun facts about React</h1>
         <ul>
           <li>was first realesed in 2013</li>
@@ -9,7 +9,7 @@ const Content =()=>{
           <li>is maintained by facebook</li>
           <li>power thousand of enterprise apps, including mobile apps</li>
         </ul>
-        </>
+        </main>
     );
 }
 export default Content;
